@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 # MacOS filesystem
-.DS_Store/
+.idea/
+.DS_Store
+*.zarr
